@@ -39,8 +39,10 @@
     * **dir (or ls)**
 3. Go to a specific subscription – ‘Contoso IT – demo’ and list the resources
     * **cd con<tab>**
-    * **dir (or ls)** - 
+    * **dir (or ls)** -
+  ```html 
   <span style="background-color: #00FFFF">**Talking Point:** You will notice there are multiple views for your Azure resources </span>
+  ```
 4. Go to VirtualMachines, list them and group them by location
     * **cd vir<tab>** - 
   <span style="background-color: #00FFFF">**Talking Point:** Tab allows me to type as minimum as required</span>
