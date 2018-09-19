@@ -1,4 +1,3 @@
-# Test1
 <!--slide1-->
 ![](pptimages/Slide1.JPG)
 ***
