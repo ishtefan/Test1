@@ -1,6 +1,3 @@
-<!--slide1-->
-![](pptimages/Slide1.JPG)
-***
 
 <!--slide2-->
 # Enterprise IT is transforming
