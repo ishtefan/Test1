@@ -45,13 +45,11 @@
     * **cd vir<tab>** - 
   <span style="background-color: #00FFFF">**Talking Point:** Tab allows me to type as minimum as required</span>
     * **dir** - 
-  <span style="background-color: #00FFFF">**Talking Point:** Fetches live info from service, subsequent calls are cached. –Force overrides the cache
- </span>
+  <span style="background-color: #00FFFF">**Talking Point:** Fetches live info from service, subsequent calls are cached. –Force overrides the cache</span>
     * **dir | group location**
 5. List all the commands that are available to you
     * **get-command | measure**  
-  <span style="background-color: #00FFFF">**Talking Point:** Hundreds & Thousands of commands are built-in for you
- </span>
+  <span style="background-color: #00FFFF">**Talking Point:** Hundreds & Thousands of commands are built-in for you </span>
     * **get-command**
 6. Use existing commands to take actions ([Azure drive allows easy navigation](/pptimages/Slide7_pic3.JPG))
 * **New-AzureRmResourceGroup –Name zMyRG –Location westus**
