@@ -31,7 +31,7 @@
 
 <!--slide7-->
 # Demo Overview
- ***Prework:*** *Open PowerShell from the [drop-down](/pptimages/Slide7_pic1.JPG) in the Cloud Shell in the portal (before the session), wait for the prompt and close it. Opening again during the demo will be fast. [Increase the font size through selector](/pptimages/Slide7_pic2.JPG)*
+ ***Prework:*** *Open PowerShell from the [drop-down](/pptimages/Slide4.JPG) in the Cloud Shell in the portal (before the session), wait for the prompt and close it. Opening again during the demo will be fast. [Increase the font size through selector](/pptimages/Slide7_pic2.JPG)*
   
 ## Demo
 1. Open PowerShell in Cloud Shell
@@ -48,7 +48,7 @@
   <span style="background-color: #00FFFF">**Talking Point:** Fetches live info from service, subsequent calls are cached. –Force overrides the cache</span>
     * **dir | group location**
 5. List all the commands that are available to you
-    * **get-command | measure**  
+    * **get-command | measure** - 
   <span style="background-color: #00FFFF">**Talking Point:** Hundreds & Thousands of commands are built-in for you </span>
     * **get-command**
 6. Use existing commands to take actions ([Azure drive allows easy navigation](/pptimages/Slide7_pic3.JPG))
