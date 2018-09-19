@@ -1,17 +1,17 @@
 
 <!--slide2-->
 # Enterprise IT is transforming
-![](pptimages/Slide2.JPG)
+![](/pptimages/Slide2.JPG)
 ***
 
 <!--slide3-->
 # Every cloud customer needs security & management
-![](pptimages/Slide3.JPG)
+![](/pptimages/Slide3.JPG)
 ***
 
 <!--slide4-->
 # Modern tools across the lifecycle
-![](pptimages/Slide4.JPG )
+![](/pptimages/Slide4.JPG )
 ***
 
 <!--slide5-->
@@ -31,7 +31,7 @@
 
 <!--slide7-->
 # Demo Overview
- ***Prework:*** *Open PowerShell from the [drop-down](/pptimages/Slide7_pic1.JPG) in the Cloud Shell in the portal (before the session), wait for the prompt and close it. Opening again during the demo will be fast. [Increase the font size through selector](/pptimages/Slide7_pic2.JPG)*
+ ***Prework:*** *Open PowerShell from the ![drop-down](/pptimages/Slide7_pic1.JPG) in the Cloud Shell in the portal (before the session), wait for the prompt and close it. Opening again during the demo will be fast. ![Increase the font size through selector](/pptimages/Slide7_pic2.JPG)*
   
 ## Demo
 1. Open PowerShell in Cloud Shell
@@ -51,7 +51,7 @@
     * **get-command | measure**  <span style="background-color: #00FFFF">**Talking Point:** Hundreds & Thousands of commands are built-in for you
  </span>
     * **get-command**
-6. Use existing commands to take actions ([Azure drive allows easy navigation](/pptimages/Slide7_pic3.JPG))
+6. Use existing commands to take actions (![Azure drive allows easy navigation](/pptimages/Slide7_pic3.JPG))
 * **New-AzureRmResourceGroup –Name zMyRG –Location westus**
 7. Easily open the Cloud Shell in full screen mode (no portal distractions)
 ***
