@@ -42,12 +42,15 @@
     * **dir (or ls)** - 
   <span style="background-color: #00FFFF">**Talking Point:** You will notice there are multiple views for your Azure resources </span>
 4. Go to VirtualMachines, list them and group them by location
-    * **cd vir<tab>** - <span style="background-color: #00FFFF">**Talking Point:** Tab allows me to type as minimum as required</span>
-    * **dir** - <span style="background-color: #00FFFF">**Talking Point:** Fetches live info from service, subsequent calls are cached. –Force overrides the cache
+    * **cd vir<tab>** - 
+  <span style="background-color: #00FFFF">**Talking Point:** Tab allows me to type as minimum as required</span>
+    * **dir** - 
+  <span style="background-color: #00FFFF">**Talking Point:** Fetches live info from service, subsequent calls are cached. –Force overrides the cache
  </span>
     * **dir | group location**
 5. List all the commands that are available to you
-    * **get-command | measure**  <span style="background-color: #00FFFF">**Talking Point:** Hundreds & Thousands of commands are built-in for you
+    * **get-command | measure**  
+  <span style="background-color: #00FFFF">**Talking Point:** Hundreds & Thousands of commands are built-in for you
  </span>
     * **get-command**
 6. Use existing commands to take actions ([Azure drive allows easy navigation](/pptimages/Slide7_pic3.JPG))
